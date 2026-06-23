@@ -37,8 +37,8 @@ Frontend    React · Next.js · Tailwind CSS
 **🏗️ AI-ассистент в проде** — [vladen](https://github.com/OlegRadinuk/vladen)
 > Сайт строительной компании с встроенным AI-ассистентом на Claude: консультирует посетителей и захватывает заявки в Telegram. Реальное внедрение. `Next.js · Claude API · Telegram`
 
-**🏨 Full-stack: платформа бронирования** — [lifestyle-crimea](https://github.com/OlegRadinuk/lifestyle-crimea)
-> Каталог апартаментов с онлайн-бронированием, закрытая админка, двусторонняя синхронизация календарей (iCalendar), cron-задачи, уведомления в Telegram. `Next.js · SQLite · node-cron`
+**🏨 Платформа бронирования + AI-ассистент «София»** — [lifestyle-crimea](https://github.com/OlegRadinuk/lifestyle-crimea)
+> Каталог апартаментов с онлайн-бронированием, закрытая админка, двусторонняя синхронизация календарей (iCalendar), cron-задачи. AI-ассистент «София» подключён **одной строкой через мою платформу Optisphere** — живой пример multi-tenant в проде. `Next.js · SQLite · Claude (via Optisphere)`
 
 ### 📊 GitHub
 
