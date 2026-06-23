@@ -28,11 +28,11 @@ Frontend    React · Next.js · Tailwind CSS
 
 ### 🚀 Избранные проекты
 
+**🧬 [ai-assistant-platform](https://github.com/OlegRadinuk/ai-assistant-platform)** — multi-tenant платформа AI-ассистентов
+> Флагман. Один движок обслуживает множество клиентов: ассистент настраивается без выката кода, встраивается одной строкой, ведёт диалог на Claude, захватывает лиды в Telegram и записывает клиентов в их МИС (МедФлекс / 1С) через абстракцию транспорта. Showcase с архитектурой и ключевыми решениями. `Next.js · React · TypeScript · Claude API`
+
 **🤖 [yandex-direct-mcp](https://github.com/OlegRadinuk/yandex-direct-mcp)** — MCP-сервер для Яндекс.Директа
 > Превращает Claude в директолога: 20 инструментов поверх API v5, безопасный агентный интерфейс к деньгам (dry-run по умолчанию — модель не потратит бюджет без подтверждения человека). `Python · MCP · API v5`
-
-**🧬 AI Assistant Platform (Optisphere)** — multi-tenant платформа AI-ассистентов *(приватный репозиторий, демо по запросу)*
-> Один движок обслуживает несколько клиентов: настраиваемые ассистенты, виджет на сайт одной строкой, захват лидов в Telegram, админ-дашборды, интеграция онлайн-записи с медицинскими системами (МедФлекс / 1С). `Next.js · React · TypeScript · Claude API`
 
 **🏗️ AI-ассистент в проде** — [vladen](https://github.com/OlegRadinuk/vladen)
 > Сайт строительной компании с встроенным AI-ассистентом на Claude: консультирует посетителей и захватывает заявки в Telegram. Реальное внедрение. `Next.js · Claude API · Telegram`
