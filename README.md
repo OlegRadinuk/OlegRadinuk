@@ -34,8 +34,11 @@ Frontend    React · Next.js · Tailwind CSS
 **🧬 AI Assistant Platform (Optisphere)** — multi-tenant платформа AI-ассистентов *(приватный репозиторий, демо по запросу)*
 > Один движок обслуживает несколько клиентов: настраиваемые ассистенты, виджет на сайт одной строкой, захват лидов в Telegram, админ-дашборды, интеграция онлайн-записи с медицинскими системами (МедФлекс / 1С). `Next.js · React · TypeScript · Claude API`
 
-**🏗️ Внедрения AI-ассистентов в прод** — [vladen](https://github.com/OlegRadinuk/vladen) · [lifestyle-crimea](https://github.com/OlegRadinuk/lifestyle-crimea)
-> Реальные бизнесы (строительство, апарт-комплекс) с встроенными AI-ассистентами: консультируют посетителей и собирают заявки. `Next.js · Claude API · Telegram`
+**🏗️ AI-ассистент в проде** — [vladen](https://github.com/OlegRadinuk/vladen)
+> Сайт строительной компании с встроенным AI-ассистентом на Claude: консультирует посетителей и захватывает заявки в Telegram. Реальное внедрение. `Next.js · Claude API · Telegram`
+
+**🏨 Full-stack: платформа бронирования** — [lifestyle-crimea](https://github.com/OlegRadinuk/lifestyle-crimea)
+> Каталог апартаментов с онлайн-бронированием, закрытая админка, двусторонняя синхронизация календарей (iCalendar), cron-задачи, уведомления в Telegram. `Next.js · SQLite · node-cron`
 
 ### 📊 GitHub
 
